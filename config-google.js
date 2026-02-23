@@ -42,7 +42,7 @@ const CONFIG = {
 
     // ━━━ GOOGLE DRIVE (ALMACENAMIENTO) ━━━━━━━━━━━━━━━━━━━━━━━
     drive: {
-        rootFolderId: '1kh_THIaf-ReobVBN-boeV5KSuIMpkIxy',
+        rootFolderId: 'PONER_TU_FOLDER_ID_AQUI',
         folders: {
             apoyo_academico: '01_Apoyo_Academico',
             aval_institucional: '02_Aval_Institucional',
